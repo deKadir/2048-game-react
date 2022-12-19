@@ -134,6 +134,11 @@ export default function App() {
             </div>
           ))}
         </div>
+        <h1>How to play</h1>
+        <p>
+          Use your <b>arrow</b> keys to move the tiles. Tiles with the same
+          number merge into one when they touch. Add them up to reach 2048!
+        </p>
       </div>
     </div>
   );
