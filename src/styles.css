@@ -15,7 +15,7 @@ body {
   display: flex;
   justify-content: center;
   box-sizing: border-box;
-  height: 100vh;
+  padding-bottom: 2rem;
 }
 .container {
   width: min(100%, var(--board-size));
